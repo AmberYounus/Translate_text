@@ -1,0 +1,40 @@
+c:\users\gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\bin\Debug\Urdu And English.exe.config
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\bin\Debug\Urdu And English.exe
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\bin\Debug\Urdu And English.pdb
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\Urdu And English.csprojResolveAssemblyReference.cache
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\Urdu_And_English.Form1.resources
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\Urdu_And_English.Properties.Resources.resources
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\Urdu And English.csproj.GenerateResource.Cache
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\Urdu And English.exe
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\Urdu And English.pdb
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\bin\Debug\ur\Urdu And English.resources.dll
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\Urdu_And_English.Form1.ur.resources
+C:\Users\Gotti\documents\visual studio 2015\Projects\Urdu And English\Urdu And English\obj\Debug\ur\Urdu And English.resources.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\Urdu And English\Urdu And English\bin\Debug\Urdu And English.exe.config
+C:\Users\Gotti\Downloads\FUUAST\semester 3\Urdu And English\Urdu And English\obj\Debug\Urdu And English.exe
+C:\Users\Gotti\Downloads\FUUAST\semester 3\Urdu And English\Urdu And English\obj\Debug\Urdu And English.pdb
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\bin\Debug\Urdu And English.exe.config
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\bin\Debug\Urdu And English.exe
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\bin\Debug\Urdu And English.pdb
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\bin\Debug\ur\Urdu And English.resources.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\Urdu_And_English.Form1.resources
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\Urdu_And_English.Properties.Resources.resources
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\Urdu_And_English.Form1.ur.resources
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\Urdu And English.csproj.GenerateResource.cache
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\Urdu And English.csproj.CoreCompileInputs.cache
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\ur\Urdu And English.resources.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\Urdu And English.exe
+C:\Users\Gotti\Downloads\FUUAST\semester 3\visual programming C#\Urdu And English\Urdu And English\obj\Debug\Urdu And English.pdb
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\bin\Debug\Urdu And English.exe.config
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\bin\Debug\Urdu And English.exe
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\bin\Debug\Urdu And English.pdb
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\bin\Debug\ur\Urdu And English.resources.dll
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu And English.csproj.AssemblyReference.cache
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu_And_English.Form1.resources
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu_And_English.Properties.Resources.resources
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu_And_English.Form1.ur.resources
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu And English.csproj.GenerateResource.cache
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu And English.csproj.CoreCompileInputs.cache
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\ur\Urdu And English.resources.dll
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu And English.exe
+C:\Users\Gotti\Downloads\FUUAST\Semester 3\visual programming C#\typing your name in text\Urdu And English\obj\Debug\Urdu And English.pdb
